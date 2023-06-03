@@ -1,0 +1,86 @@
+.nav-bar {
+    background-color: #fae7e4;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.banner{
+    border-top: 1px solid #f79682;
+}
+.about-us span{
+    color:#f79682;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    
+}
+.about-us img {
+    
+    border-radius: 1%;
+}
+.aboutus-img {
+    box-shadow: rgba(247, 150, 130, 0.1) 0px 48px 100px 0px;
+    border: 2px solid #f79682;
+    border-radius: 2%;
+}
+.newsletter {
+    background-color: #f79682;
+}
+
+.card-1 {
+    background-color: #f5eeec;
+    border: none;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.card-2 {
+    background-color: #f5eeec;
+    border: none;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.card-3 {
+    background-color: #f5eeec;
+    border: none;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.instructor-head {
+    background-color: #fae7e4;
+    width: 40%;
+    margin: auto;
+}
+.instructor-p {
+   padding: 20px;
+}
+
+.instructor-row .card {
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px;   
+}
+.instructor-row .card img {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color:#f79682;
+    
+}
+
+.card-p {
+    background-color:#fae7e4;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+
+}
+
+.bi-instagram {
+    color: #dc3545;
+    font-size: 20px;
+    
+}  
+.bi-facebook {
+    color: #dc3545;
+    font-size: 20px;
+}
+   
+.bi-linkedin {
+    color: #dc3545;
+    font-size: 20px;
+   
+}  
+.instructor  {
+    margin-top: -15%;
+}
+
